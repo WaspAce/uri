@@ -1,5 +1,5 @@
 {
-  "name": "uri.ts",
+  "name": "uri",
   "version": "1.0.0",
   "description": "URI util object",
   "main": "./lib/index.js",
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:WaspAce/uri.ts.git"
+    "url": "git+git@github.com:WaspAce/uri.git"
   }
 }
