@@ -2,7 +2,7 @@
   "name": "uri",
   "version": "1.0.0",
   "description": "URI util object",
-  "main": "./lib/index.js",
+  "main": "./index.js",
   "scripts": {
     "build": "tsc",
     "pretest": "tsc"

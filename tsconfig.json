@@ -2,7 +2,7 @@
   "compilerOptions": {
       "target": "es2017",
       "removeComments": true,
-      "outDir": "./lib",
+      "outDir": "./",
       "typeRoots": [],
       "lib": [
         "es2017"
