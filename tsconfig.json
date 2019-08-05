@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "removeComments": true,
+      "outDir": "./lib",
+      "typeRoots": [],
+      "lib": [
+        "es2017"
+      ],
+      "module": "es2015",
+      "allowJs": false,
+      "declaration": true
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*"
+  ]
+}

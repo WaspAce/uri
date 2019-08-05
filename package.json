@@ -1,0 +1,24 @@
+{
+  "name": "uri.ts",
+  "version": "1.0.0",
+  "description": "URI util object",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "pretest": "tsc",
+    "test": "/dist/test"
+  },
+  "author": "Architector",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "tslint": "^5.14.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:WaspAce/uri.ts.git"
+  }
+}
