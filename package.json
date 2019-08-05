@@ -5,8 +5,7 @@
   "main": "./lib/index.js",
   "scripts": {
     "build": "tsc",
-    "pretest": "tsc",
-    "test": "/dist/test"
+    "pretest": "tsc"
   },
   "author": "Architector",
   "license": "ISC",
